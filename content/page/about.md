@@ -1,19 +1,15 @@
 ---
-title: About me
-subtitle: Why you'd want to hang out with me
+title: About Everyday Question Jouranl
+subtitle: One Question A Day
 comments: false
 ---
 
-My name is The Dude. I have the following qualities:
+Every day we will post a question.
 
-- I rock a great beard
-- I'm extremely loyal to my friends
-- I like bowling
+- Your job is to answer it.
 
-That rug really tied the room together.
+That is all.
 
-### my history
+### History of Everyday Question Journal
 
-To be honest, I'm having some trouble remembering right now, so why don't you
-just watch [my movie](https://en.wikipedia.org/wiki/The_Big_Lebowski) and it
-will answer **all** your questions.
+One day we thought about what a website could be, and this is what we came up with.
